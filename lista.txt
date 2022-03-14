@@ -1,6 +1,9 @@
-1.Bialchytski Aliaksandr
-2.Wojciech Drochomirecki
-3.Maciej Ejduk
+1 .Bialchytski Aliaksandr
+2. Wojciech Drochomirecki
+3. Maciej Ejduk
 4. Garczyński Mateusz
-5. Karol Nowinski
+5. Adrian Goworek
+6. Maksim Matchenia
+7. Karol Nowinski
+
 
