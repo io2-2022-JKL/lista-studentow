@@ -1,5 +1,6 @@
-1. Bialchytski Aliaksandr
+﻿1. Bialchytski Aliaksandr
 2. Wojciech Drochomirecki
 3. Maciej Ejduk
-4. Maksim Matchenia
-5. Ewa Pasterz
+4. Mateusz Garczyński
+5. Maksim Matchenia
+6. Ewa Pasterz
